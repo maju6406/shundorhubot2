@@ -20,4 +20,4 @@ fivethirty = [
 
 module.exports = (robot) ->
   robot.hear /530/i, (msg) ->
-    msg.send fivethirty.random fivethirty
+    msg.send msg.random fivethirty
