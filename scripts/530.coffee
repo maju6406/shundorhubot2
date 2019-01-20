@@ -1,6 +1,6 @@
 
 # Description:
-#   540
+#   530
 #
 # Dependencies:
 #   None
@@ -9,15 +9,15 @@
 #   None
 #
 # Commands:
-#   hubot 540 - sinbraaaad!
+#   hubot 530
 #
 # Author:
 #   maju6406
 
-540 = [
+fivethirty = [
   "https://media.giphy.com/media/6TEo67Fh1CRQk/giphy.gif"
 ]
 
 module.exports = (robot) ->
-  robot.hear /540/i, (msg) ->
-    msg.send msg.random 540
+  robot.hear /530/i, (msg) ->
+    msg.send fivethirty.random fivethirty
