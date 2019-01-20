@@ -15,7 +15,7 @@
 #   maju6406
 
 snap = [
-  "https://media.giphy.com/media/qE7OssOtzKvAI/giphy.gif"
+  "https://media.giphy.com/media/bQ8ZoNK1NqaQw/giphy.gif"
 ]
 
 module.exports = (robot) ->
