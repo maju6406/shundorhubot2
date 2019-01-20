@@ -14,7 +14,7 @@
 # Author:
 #   maju6406
 
-snap = [
+twirl = [
   "https://media.giphy.com/media/6TEo67Fh1CRQk/giphy.gif"
 ]
 
