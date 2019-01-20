@@ -15,7 +15,7 @@
 #   maju6406
 
 fivethirty = [
-  "https://media.giphy.com/media/6TEo67Fh1CRQk/giphy.gif"
+  "https://media.giphy.com/media/QzlAdQIbcM7sY/giphy.gif"
 ]
 
 module.exports = (robot) ->
