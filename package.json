@@ -11,7 +11,7 @@
     "hubot-cheer": "^0.1.0",
     "hubot-conspire": "1.0.0",
     "hubot-cute-me": "~1.0.0",
-    "hubot-diagnostics": "0.0.1",
+    "hubot-diagnostics": "0.0.2",
     "hubot-explainshell": ">= 0.0.0",
     "hubot-fliptable": "~1.2.0",
     "hubot-forecastio": "^1.1.2",
